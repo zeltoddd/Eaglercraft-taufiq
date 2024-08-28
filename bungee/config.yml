@@ -1,7 +1,7 @@
 enforce_secure_profile: false
 listeners:
 - query_port: 25577
-  motd: '&1Vanilla 1.8 SMP'
+  motd: '&1FoxyPy SMP'
   tab_list: GLOBAL_PING
   query_enabled: false
   proxy_protocol: false
